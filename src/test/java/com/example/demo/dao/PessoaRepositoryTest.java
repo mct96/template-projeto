@@ -1,6 +1,6 @@
 package com.example.demo.dao;
 
-import com.example.demo.pessoa.Pessoa;
+import com.example.demo.model.Pessoa;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,7 +1,7 @@
 package com.example.demo.controller;
 
 import com.example.demo.dao.PessoaRepository;
-import com.example.demo.pessoa.Pessoa;
+import com.example.demo.model.Pessoa;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

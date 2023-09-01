@@ -5,7 +5,7 @@
 package com.example.demo.visao;
 
 import com.example.demo.controller.PessoalController;
-import com.example.demo.pessoa.Pessoa;
+import com.example.demo.model.Pessoa;
 import org.springframework.stereotype.Component;
 
 import javax.swing.table.DefaultTableModel;
